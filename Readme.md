@@ -44,6 +44,9 @@ Web Descentralized Explorer
 
 
 ## Solidity
+- [Solidity Documentation](https://docs.soliditylang.org/)
+- [Solidity By Example](https://solidity-by-example.org/)
+- [CryptoZombies](https://cryptozombies.io/): Learn Solidity through play a game
 
 ## CTF (Capture The Flag): 
 Capture the Flag (CTF) is a special kind of information security competitions
@@ -79,6 +82,10 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Solidity Scan](https://solidityscan.com/): Smart-contract scanning tool built to discover vulnerabilities & mitigate risks in your code.
 - [Dedaub Contract Library](https://library.dedaub.com/contracts/hottest): Smart Contract Code Explorer
 - [DApp Radar](https://dappradar.com/): Discover, Track & Trade Everything DeFi, NFT and Gaming
+- [Token Sniffer](https://tokensniffer.com): This site scans contracts for known scams, computes helpful token metrics, and maintains a list of scams
+- [Token FOMO](https://tokenfomo.io): Every token deployed in the last 24 hours
+- [Rugdoc](https://rugdoc.io)
+
 
 ## Conferences
 - [TrustX](https://www.secureum.xyz/trustx): a first-of-its-kind technical event dedicated to the Ethereum security ecosystem

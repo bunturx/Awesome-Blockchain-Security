@@ -47,6 +47,20 @@ Web Descentralized Explorer
 - [Solidity Documentation](https://docs.soliditylang.org/)
 - [Solidity By Example](https://solidity-by-example.org/)
 - [CryptoZombies](https://cryptozombies.io/): Learn Solidity through play a game
+- [Solidity & Vyper Cheat Sheet](https://reference.auditless.com/cheatsheet/)
+- [GitHub](https://github.com/ethereum/solidity/)
+- [Solidity Gitter Chatroom](https://gitter.im/ethereum/solidity/) bridged to [Solidity Matrix Chatroom](https://matrix.to/#/#ethereum_solidity:gitter.im)
+- [Cheat Sheet](https://reference.auditless.com/cheatsheet)
+- [Solidity Blog](https://blog.soliditylang.org/)
+- [Solidity Twitter](https://twitter.com/solidity_lang)
+
+## Vyper
+- [Documentation](https://vyper.readthedocs.io)
+- [Vyper by Example](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)
+- [GitHub](https://github.com/vyperlang/vyper)
+- [Vyper Gitter Chatroom](https://gitter.im/vyperlang/community)
+- [Cheat Sheet](https://reference.auditless.com/cheatsheet)
+- [Update Jan 8, 2020](https://blog.ethereum.org/2020/01/08/update-on-the-vyper-compiler)
 
 ## CTF (Capture The Flag): 
 Capture the Flag (CTF) is a special kind of information security competitions

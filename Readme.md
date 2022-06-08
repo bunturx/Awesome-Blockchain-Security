@@ -42,8 +42,8 @@ Web Descentralized Explorer
 - [Introducción a Hacking y Seguridad de Smart Contracts en Ethereum](https://www.youtube.com/watch?v=sqjHodAj5Xc&list=PLTqiwJDd_R8yHOvteko_DmUxUTMHnlfci): Training of 4+ hours by [Martin Abbatemarco](https://twitter.com/tinchoabbate)
 - [Introducción a Ethereum Development](https://www.youtube.com/watch?v=zoJb3G8TQcE&list=PLTqiwJDd_R8y9pfUBjhkVa1IDMwyQz-fU): by [Martin Triay](https://twitter.com/martriay)
 
-
-## Solidity
+## Smart Contracts Languajes
+#### Solidity
 - [Solidity Documentation](https://docs.soliditylang.org/)
 - [Solidity By Example](https://solidity-by-example.org/)
 - [CryptoZombies](https://cryptozombies.io/): Learn Solidity through play a game
@@ -54,13 +54,26 @@ Web Descentralized Explorer
 - [Solidity Blog](https://blog.soliditylang.org/)
 - [Solidity Twitter](https://twitter.com/solidity_lang)
 
-## Vyper
+#### Vyper
 - [Documentation](https://vyper.readthedocs.io)
 - [Vyper by Example](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)
 - [GitHub](https://github.com/vyperlang/vyper)
 - [Vyper Gitter Chatroom](https://gitter.im/vyperlang/community)
 - [Cheat Sheet](https://reference.auditless.com/cheatsheet)
 - [Update Jan 8, 2020](https://blog.ethereum.org/2020/01/08/update-on-the-vyper-compiler)
+
+#### Yul and Yul+
+- [Yul Documentation](https://docs.soliditylang.org/en/latest/yul.html)
+- [Yul+ Documentation](https://github.com/fuellabs/yulp)
+- [Yul+ Playground](https://yulp.fuel.sh/)
+- [Yul+ Introduction Post](https://medium.com/@fuellabs/introducing-yul-a-new-low-level-language-for-ethereum-aa64ce89512f)
+
+#### Fe
+- [GitHub](https://github.com/ethereum/fe)
+- [Fe Announcement](https://snakecharmers.ethereum.org/fe-a-new-language-for-the-ethereum-ecosystem/)
+- [Fe 2021 Roadmap](https://notes.ethereum.org/LVhaTF30SJOpkbG1iVw1jg)
+- [Fe Discord Chat](https://discord.com/invite/ywpkAXFjZH)
+- [Fe Twitter](https://twitter.com/official_fe)
 
 ## CTF (Capture The Flag): 
 Capture the Flag (CTF) is a special kind of information security competitions

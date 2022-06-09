@@ -6,6 +6,7 @@ A list of resources about
 Created by the great [@0xRajeev](https://twitter.com/0xRajeev)
 The core focus will be Ethereum Smart Contract Security Auditing.
 The covered topics will include Ethereum, Solidity, Smart Contract Security & Audits.
+- [Secureum Mind Map](https://github.com/x676f64/secureum-mind_map)
 
 ## Blockchain Explorers
 - [Etherscan](https://etherscan.io/): The Ethereum Blockchain Explorer.

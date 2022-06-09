@@ -112,17 +112,19 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Visual Studio Code Extensions by tintinweb](https://marketplace.visualstudio.com/publishers/tintinweb)
 
 ## Online Tools
-- [Token Analyzer](https://www.bscheck.eu/): Token Analyzer to detect potential scams.
-- [Honeypot Detector for BSC Network](https://honeypot.is/)
 - [Solidity Scan](https://solidityscan.com/): Smart-contract scanning tool built to discover vulnerabilities & mitigate risks in your code.
 - [Dedaub Contract Library](https://library.dedaub.com/contracts/hottest): Smart Contract Code Explorer
 - [DApp Radar](https://dappradar.com/): Discover, Track & Trade Everything DeFi, NFT and Gaming
-- [Token Sniffer](https://tokensniffer.com): This site scans contracts for known scams, computes helpful token metrics, and maintains a list of scams
-- [Token FOMO](https://tokenfomo.io): Every token deployed in the last 24 hours
-- [Rugdoc](https://rugdoc.io)
 - [EthTx Transaction Decoder](https://ethtx.info/):EthTx is an open source decoder of blockchain transactions.
 - [Online Solidity Decompiler](https://www.ethervm.io/decompile)
 
+## Scam Identifiers
+- [Token Sniffer](https://tokensniffer.com): This site scans contracts for known scams, computes helpful token metrics, and maintains a list of scams
+- [Token FOMO](https://tokenfomo.io): Every token deployed in the last 24 hours
+- [Rugdoc](https://rugdoc.io)
+- [Is This Coins a Scam?](https://isthiscoinascam.com/)
+- [Token Analyzer](https://www.bscheck.eu/): Token Analyzer to detect potential scams.
+- [Honeypot Detector for BSC Network](https://honeypot.is/)
 
 ## Conferences
 - [TrustX](https://www.secureum.xyz/trustx): a first-of-its-kind technical event dedicated to the Ethereum security ecosystem

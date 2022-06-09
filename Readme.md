@@ -33,11 +33,17 @@ Monero block explorer
 Web Descentralized Explorer
 - [Blockscan](https://blockscan.com/)
 
+## E.V.M - Ethereum Virtual Machine
+[Ethereum Opcodes - Oficial Documentation](https://ethereum.org/en/developers/docs/evm/opcodes/)
+[EVM Opcodes](https://www.ethervm.io/)
+[Eveem Decompiler](https://eveem.org/)
+
 ## Vulnerabilities
 - [SWC Registry](https://swcregistry.io/): The Smart Contract Weakness Classification Registry (SWC Registry) is an implementation of the weakness classification scheme proposed in EIP-1470. It is loosely aligned to the terminologies and structure used in the Common Weakness Enumeration (CWE) while overlaying a wide range of weakness variants that are specific to smart contracts.
 
 ## Smart Contracts Security
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) maintained by [ConsenSys Dilligence](https://consensys.net/diligence/)
+- [Ethereum Security Post](https://blog.ethereum.org/category/security/)
 - [SigmaPrime Blog, Solidity Security](https://blog.sigmaprime.io/solidity-security.html): Comprehensive list of known attack vectors and common anti-patterns.
 - [Introducción a Hacking y Seguridad de Smart Contracts en Ethereum](https://www.youtube.com/watch?v=sqjHodAj5Xc&list=PLTqiwJDd_R8yHOvteko_DmUxUTMHnlfci): Training of 4+ hours by [Martin Abbatemarco](https://twitter.com/tinchoabbate)
 - [Introducción a Ethereum Development](https://www.youtube.com/watch?v=zoJb3G8TQcE&list=PLTqiwJDd_R8y9pfUBjhkVa1IDMwyQz-fU): by [Martin Triay](https://twitter.com/martriay)
@@ -57,6 +63,7 @@ Web Descentralized Explorer
 #### Vyper
 - [Documentation](https://vyper.readthedocs.io)
 - [Vyper by Example](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)
+- [Learn.Vyperlang.org](https://learn.vyperlang.org/#/) for learning Vyper by building a Pokémon game.
 - [GitHub](https://github.com/vyperlang/vyper)
 - [Vyper Gitter Chatroom](https://gitter.im/vyperlang/community)
 - [Cheat Sheet](https://reference.auditless.com/cheatsheet)
@@ -112,6 +119,8 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Token Sniffer](https://tokensniffer.com): This site scans contracts for known scams, computes helpful token metrics, and maintains a list of scams
 - [Token FOMO](https://tokenfomo.io): Every token deployed in the last 24 hours
 - [Rugdoc](https://rugdoc.io)
+- [EthTx Transaction Decoder](https://ethtx.info/):EthTx is an open source decoder of blockchain transactions.
+- [Online Solidity Decompiler](https://www.ethervm.io/decompile)
 
 
 ## Conferences

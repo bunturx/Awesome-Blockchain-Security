@@ -125,6 +125,7 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Is This Coins a Scam?](https://isthiscoinascam.com/)
 - [Token Analyzer](https://www.bscheck.eu/): Token Analyzer to detect potential scams.
 - [Honeypot Detector for BSC Network](https://honeypot.is/)
+- [Bad Bitcoin.org](https://badbitcoin.org/)
 
 ## Conferences
 - [TrustX](https://www.secureum.xyz/trustx): a first-of-its-kind technical event dedicated to the Ethereum security ecosystem

@@ -41,6 +41,7 @@ Web Descentralized Explorer
 
 ## Vulnerabilities
 - [SWC Registry](https://swcregistry.io/): The Smart Contract Weakness Classification Registry (SWC Registry) is an implementation of the weakness classification scheme proposed in EIP-1470. It is loosely aligned to the terminologies and structure used in the Common Weakness Enumeration (CWE) while overlaying a wide range of weakness variants that are specific to smart contracts.
+- [ist-of-Security-Vulnerabilities](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities)
 
 ## Smart Contracts Security
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) maintained by [ConsenSys Dilligence](https://consensys.net/diligence/)

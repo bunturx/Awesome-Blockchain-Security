@@ -35,9 +35,9 @@ Web Descentralized Explorer
 - [Blockscan](https://blockscan.com/)
 
 ## E.V.M - Ethereum Virtual Machine
-[Ethereum Opcodes - Oficial Documentation](https://ethereum.org/en/developers/docs/evm/opcodes/)
-[EVM Opcodes](https://www.ethervm.io/)
-[Eveem Decompiler](https://eveem.org/)
+- [Ethereum Opcodes - Oficial Documentation](https://ethereum.org/en/developers/docs/evm/opcodes/)
+- [EVM Opcodes](https://www.ethervm.io/)
+- [Eveem Decompiler](https://eveem.org/)
 
 ## Vulnerabilities
 - [SWC Registry](https://swcregistry.io/): The Smart Contract Weakness Classification Registry (SWC Registry) is an implementation of the weakness classification scheme proposed in EIP-1470. It is loosely aligned to the terminologies and structure used in the Common Weakness Enumeration (CWE) while overlaying a wide range of weakness variants that are specific to smart contracts.

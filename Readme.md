@@ -151,7 +151,7 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/?query=security)
 - [Crypto Jobs List](https://cryptojobslist.com/es/security)
 
-## PDF Documentation & Books
+## PDF Documentation & Books [link](https://github.com/bunturx/Awesome-Blockchain-Security/tree/main/documents)
 - [Ethereum Evm Illustrated - Takenobu T.](https://github.com/bunturx/Awesome-Blockchain-Security/blob/main/documents/Ethereum%20Evm%20Illustrated%20-%20Takenobu%20T..pdf)
 - [Mastering Ethereum - Andreas M. Antonopoulos, Gavin Wood](https://github.com/bunturx/Awesome-Blockchain-Security/blob/main/documents/Mastering%20Ethereum%20-%20Andreas%20M.%20Antonopoulos%2C%20Gavin%20Wood.pdf)
 - [ETHEREUM:Yellow Paper](https://github.com/bunturx/Awesome-Blockchain-Security/blob/main/documents/ETHEREUM:%20A%20SECURE%20DECENTRALISED%20GENERALISED%20TRANSACTION%20LEDGER%20-%20Gavin%20Wood.pdf)

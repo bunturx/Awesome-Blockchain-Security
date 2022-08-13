@@ -134,6 +134,10 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Ekoparty Security Conference](http://ekoparty.org): Latin American Security Conference with a Space dedicated to Blockchain Security
 - [Defcon - Blockchain Village](https://blockchainvillage.net): One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada. -- [Videos](https://www.youtube.com/watch?v=lxTwFmGlM30&list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw)
 - [Unchained Blockchain Security Conference](https://razzorsec.ml/unchained.html):A two days virtual conference featuring global Blockchain veterans presenting their novel ideas, stories, and experiences around creating a secured Web3.0 ecosystem. [Videos](https://www.youtube.com/playlist?list=PLsTlBQwiFsTH_vumCsfx1kshgBuS4_Bfs)
+- [ETHLatam](https://ethlatam.org/): AGOSTO 11-12-13 2022, Buenos Aires Argentina
+- [DeFi Security 101](https://defisecuritysummit.org/defi-security-101/): LATHROP LIBRARY, RM 282, 518 MEMORIAL WAY, STANFORD, AUGUST 26
+- [First Annual DeFi Security Summit](https://defisecuritysummit.org/): PAUL & MILDRED BERG HALL, STANFORD, AUGUST 27-28
+- [The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/):(SBC'22) Arrillaga Alumni Center, Stanford University Aug. 29 - 31, 2022
 
 ## Newsletters about the Crypto World
 - [Rekt](https://rekt.news/)

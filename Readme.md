@@ -132,7 +132,10 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [TrustX](https://www.secureum.xyz/trustx): a first-of-its-kind technical event dedicated to the Ethereum security ecosystem
 -- [Videos](https://www.youtube.com/playlist?list=PLYORQHvGMg-VJ2N7273F8htBCEFdTqjui)
 - [Ekoparty Security Conference](http://ekoparty.org): Latin American Security Conference with a Space dedicated to Blockchain Security
-- [Defcon - Blockchain Village](https://blockchainvillage.net): One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada. -- [Videos](https://www.youtube.com/watch?v=lxTwFmGlM30&list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw)
+- [Defcon - Blockchain Village](https://blockchainvillage.net): One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.
+### - Defcon 27 : [DEF CON 27 Blockchain Village 2019](https://www.youtube.com/playlist?list=PL9fPq3eQfaaCi3xCMqdz4v0Y4BVjAPCBY)
+### - Defcon 28: [DEF CON Safe Mode Blockchain Village 2020](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBdXIvjSR4LwCHUe2LPzIov)
+### - Defcon 29: [DEF CON 29 Blockchain Village 2021](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw)
 - [Unchained Blockchain Security Conference](https://razzorsec.ml/unchained.html):A two days virtual conference featuring global Blockchain veterans presenting their novel ideas, stories, and experiences around creating a secured Web3.0 ecosystem. [Videos](https://www.youtube.com/playlist?list=PLsTlBQwiFsTH_vumCsfx1kshgBuS4_Bfs)
 - [ETHLatam](https://ethlatam.org/): AGOSTO 11-12-13 2022, Buenos Aires Argentina
 - [DeFi Security 101](https://defisecuritysummit.org/defi-security-101/): LATHROP LIBRARY, RM 282, 518 MEMORIAL WAY, STANFORD, AUGUST 26

@@ -149,6 +149,9 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [MDMA: Monday DeFi Market Alpha](https://t.co/xxzofu4qAS)
 - [Chainalysis Weekly Newsletter](https://www.chainalysis.com/)
 
+## Youtube Channels
+- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/playlists)
+
 ## Bug Bounty Programs
 - [Code4Arena](https://code4rena.com/)
 - [Hackenproof](https://hackenproof.com/)

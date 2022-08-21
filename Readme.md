@@ -136,6 +136,7 @@ Capture the Flag (CTF) is a special kind of information security competitions
 ### - Defcon 27 : [DEF CON 27 Blockchain Village 2019](https://www.youtube.com/playlist?list=PL9fPq3eQfaaCi3xCMqdz4v0Y4BVjAPCBY)
 ### - Defcon 28: [DEF CON Safe Mode Blockchain Village 2020](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBdXIvjSR4LwCHUe2LPzIov)
 ### - Defcon 29: [DEF CON 29 Blockchain Village 2021](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw)
+- [Off The Chain Conference](https://www.youtube.com/watch?v=RKNPyDGWIrM&ab_channel=OffTheChainConference): June 7th, 2022, San Francisco
 - [Unchained Blockchain Security Conference](https://razzorsec.ml/unchained.html):A two days virtual conference featuring global Blockchain veterans presenting their novel ideas, stories, and experiences around creating a secured Web3.0 ecosystem. [Videos](https://www.youtube.com/playlist?list=PLsTlBQwiFsTH_vumCsfx1kshgBuS4_Bfs)
 - [ETHLatam](https://ethlatam.org/): AGOSTO 11-12-13 2022, Buenos Aires Argentina
 - [DeFi Security 101](https://defisecuritysummit.org/defi-security-101/): LATHROP LIBRARY, RM 282, 518 MEMORIAL WAY, STANFORD, AUGUST 26

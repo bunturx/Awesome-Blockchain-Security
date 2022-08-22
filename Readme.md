@@ -133,7 +133,7 @@ Capture the Flag (CTF) is a special kind of information security competitions
 | Titulo | Desc | web | Año | Video
 |--------|-----|------|------|--------|
 | TrustX |a first-of-its-kind technical event dedicated to the Ethereum security ecosystem | https://www.secureum.xyz/trustx |2022 |[Videos](https://www.youtube.com/playlist?list=PLYORQHvGMg-VJ2N7273F8htBCEFdTqjui)|
-|Ekoparty Security Conference|Latin American Security Conference with a Space dedicated to Blockchain Security|   http://ekoparty.org  | Since 2005 |https://www.youtube.com/playlist?list=PL29lfGiRoK6H7NID647F0AQoHzvWg1dDp |
+|Ekoparty Security Conference|Latin American Security Conference with a Space dedicated to Blockchain Security|   http://ekoparty.org  | Since 2005 | [Videos](https://www.youtube.com/playlist?list=PL29lfGiRoK6H7NID647F0AQoHzvWg1dDp) |
 | Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2019 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaCi3xCMqdz4v0Y4BVjAPCBY) |
 | Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2020 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBdXIvjSR4LwCHUe2LPzIov) |
 | Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2021 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw) |

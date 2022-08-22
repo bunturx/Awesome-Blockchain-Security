@@ -95,22 +95,24 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs): a list of all of them
 
 ## Tools
-- [Slither](https://github.com/trailofbits/slither):Static analysis framework with detectors for many common Solidity issues. It has taint and value tracking capabilities and is written in Python.
-- [MythX](https://mythx.io/):MythX is a professional-grade cloud service that uses symbolic analysis and input fuzzing to detect common security bugs and verify the correctness of smart contract code. Using MythX requires an API key from mythx.io.
-- [Mythril](https://github.com/ConsenSys/mythril):The Swiss army knife for smart contract security.
-- [Contract-Library](https://contract-library.com/):Decompiler and security analysis tool for all deployed contracts.
-- [MadMax](https://github.com/nevillegrech/MadMax): Static analysis tool for gas DoS vulnerabilities.
-- [Gigahorse](https://github.com/nevillegrech/gigahorse-toolchain): Fast binary lifter and program analysis framework written in Datalog.
-- [Echidna](https://github.com/trailofbits/echidna): The only available fuzzer for Ethereum software. Uses property testing to generate malicious inputs that break smart contracts.
-- [Manticore](https://github.com/trailofbits/manticore): Dynamic binary analysis tool with EVM support.
-- [Oyente](https://github.com/melonproject/oyente): Analyze Ethereum code to find common vulnerabilities, based on this paper.
-- [Securify](https://github.com/eth-sri/securify2): Fully automated online static analyzer for smart contracts, providing a security report based on vulnerability patterns.
-- [SmartCheck](https://smartdec.net/): Static analysis of Solidity source code for security vulnerabilities and best practices.
-- [Octopus](https://github.com/pventuzelo/octopus): Security Analysis tool for Blockchain Smart Contracts with support of EVM and (e)WASM.
-- [sFuzz](https://sfuzz.github.io/): Efficient fuzzer inspired from AFL to find common vulnerabilities.
-- [Vertigo](https://sfuzz.github.io/): Mutation Testing for Ethereum Smart Contracts.
-- [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-- [Visual Studio Code Extensions by tintinweb](https://marketplace.visualstudio.com/publishers/tintinweb)
+| Tool | Link | Desc |
+|--------|-----|------|
+|Slither|[link](https://github.com/trailofbits/slither)|Static analysis framework with detectors for many common Solidity issues. It has taint and value tracking capabilities and is written in Python.|
+|MythX|[link](https://mythx.io/)|MythX is a professional-grade cloud service that uses symbolic analysis and input fuzzing to detect common security bugs and verify the correctness of smart contract code. Using MythX requires an API key from mythx.io.|
+|Mythril|[link](https://github.com/ConsenSys/mythril)|The Swiss army knife for smart contract security.|
+|Contract-Library|[link](https://contract-library.com/)|Decompiler and security analysis tool for all deployed contracts.|
+|MadMax|[link](https://github.com/nevillegrech/MadMax)| Static analysis tool for gas DoS vulnerabilities.|
+|Gigahorse|[link](https://github.com/nevillegrech/gigahorse-toolchain)| Fast binary lifter and program analysis framework written in Datalog.|
+|Echidna|[link](https://github.com/trailofbits/echidna)| The only available fuzzer for Ethereum software. Uses property testing to generate malicious inputs that break smart contracts.|
+|Manticore|[link](https://github.com/trailofbits/manticore)| Dynamic binary analysis tool with EVM support.|
+|Oyente|[link](https://github.com/melonproject/oyente)| Analyze Ethereum code to find common vulnerabilities, based on this paper.|
+|Securify|[link](https://github.com/eth-sri/securify2)| Fully automated online static analyzer for smart contracts, providing a security report based on vulnerability patterns.|
+|SmartCheck|[link](https://smartdec.net/)| Static analysis of Solidity source code for security vulnerabilities and best practices.|
+|Octopus|[link](https://github.com/pventuzelo/octopus)| Security Analysis tool for Blockchain Smart Contracts with support of EVM and (e)WASM.|
+|sFuzz|[link](https://sfuzz.github.io/) |Efficient fuzzer inspired from AFL to find common vulnerabilities.|
+|Vertigo|[link](https://sfuzz.github.io/)| Mutation Testing for Ethereum Smart Contracts.|
+|Solidity Visual Developer|[link](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)||
+|Visual Studio Code Extensions by tintinweb|[link](https://marketplace.visualstudio.com/publishers/tintinweb)||
 
 ## Online Tools
 - [Solidity Scan](https://solidityscan.com/): Smart-contract scanning tool built to discover vulnerabilities & mitigate risks in your code.

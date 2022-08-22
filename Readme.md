@@ -111,8 +111,8 @@ Capture the Flag (CTF) is a special kind of information security competitions
 |Octopus|[link](https://github.com/pventuzelo/octopus)| Security Analysis tool for Blockchain Smart Contracts with support of EVM and (e)WASM.|
 |sFuzz|[link](https://sfuzz.github.io/) |Efficient fuzzer inspired from AFL to find common vulnerabilities.|
 |Vertigo|[link](https://sfuzz.github.io/)| Mutation Testing for Ethereum Smart Contracts.|
-|Solidity Visual Developer|[link](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)||
-|Visual Studio Code Extensions by tintinweb|[link](https://marketplace.visualstudio.com/publishers/tintinweb)||
+|Solidity Visual Developer|[link](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)|This extension contributes security centric syntax and semantic highlighting, a detailed class outline, specialized views, advanced Solidity code insights and augmentation to Visual Studio Code.|
+|tintinweb|[link](https://marketplace.visualstudio.com/publishers/tintinweb)|Visual Studio Code Extensions by tintinweb|
 
 ## Online Tools
 - [Solidity Scan](https://solidityscan.com/): Smart-contract scanning tool built to discover vulnerabilities & mitigate risks in your code.

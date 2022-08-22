@@ -15,7 +15,7 @@ The covered topics will include Ethereum, Solidity, Smart Contract Security & Au
 - [PolygonScan](https://polygonscan.com/): Polygon PoS Chain Explorer.
 - [Blockchain.com Explorer](https://www.blockchain.com/explorer)
 - [Blockchair](https://blockchair.com/es)
-- [BlockCypher](https://live.blockcypher.com/)
+- [BlockCypher](https://live.blockcypher.com/)a
 - [CoinMarketCap Block Explorer](https://blockchain.coinmarketcap.com/)
 - [BTC.com Block Explorer](https://explorer.btc.com/)
 
@@ -129,19 +129,22 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Bad Bitcoin.org](https://badbitcoin.org/)
 
 ## Conferences
-- [TrustX](https://www.secureum.xyz/trustx): a first-of-its-kind technical event dedicated to the Ethereum security ecosystem
--- [Videos](https://www.youtube.com/playlist?list=PLYORQHvGMg-VJ2N7273F8htBCEFdTqjui)
-- [Ekoparty Security Conference](http://ekoparty.org): Latin American Security Conference with a Space dedicated to Blockchain Security
-- [Defcon - Blockchain Village](https://blockchainvillage.net): One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.
-### - Defcon 27 : [DEF CON 27 Blockchain Village 2019](https://www.youtube.com/playlist?list=PL9fPq3eQfaaCi3xCMqdz4v0Y4BVjAPCBY)
-### - Defcon 28: [DEF CON Safe Mode Blockchain Village 2020](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBdXIvjSR4LwCHUe2LPzIov)
-### - Defcon 29: [DEF CON 29 Blockchain Village 2021](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw)
-- [Off The Chain Conference](https://www.youtube.com/watch?v=RKNPyDGWIrM&ab_channel=OffTheChainConference): June 7th, 2022, San Francisco
-- [Unchained Blockchain Security Conference](https://razzorsec.ml/unchained.html):A two days virtual conference featuring global Blockchain veterans presenting their novel ideas, stories, and experiences around creating a secured Web3.0 ecosystem. [Videos](https://www.youtube.com/playlist?list=PLsTlBQwiFsTH_vumCsfx1kshgBuS4_Bfs)
-- [ETHLatam](https://ethlatam.org/): AGOSTO 11-12-13 2022, Buenos Aires Argentina
-- [DeFi Security 101](https://defisecuritysummit.org/defi-security-101/): LATHROP LIBRARY, RM 282, 518 MEMORIAL WAY, STANFORD, AUGUST 26
-- [First Annual DeFi Security Summit](https://defisecuritysummit.org/): PAUL & MILDRED BERG HALL, STANFORD, AUGUST 27-28
-- [The Science of Blockchain Conference 2022](https://cbr.stanford.edu/sbc22/):(SBC'22) Arrillaga Alumni Center, Stanford University Aug. 29 - 31, 2022
+
+| Titulo | Desc | web | Año | Video
+|--------|-----|------|------|--------|
+| TrustX |a first-of-its-kind technical event dedicated to the Ethereum security ecosystem | https://www.secureum.xyz/trustx |2022 |[Videos](https://www.youtube.com/playlist?list=PLYORQHvGMg-VJ2N7273F8htBCEFdTqjui)|
+|Ekoparty Security Conference|Latin American Security Conference with a Space dedicated to Blockchain Security|   http://ekoparty.org  | Since 2005 |https://www.youtube.com/playlist?list=PL29lfGiRoK6H7NID647F0AQoHzvWg1dDp |
+| Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2019 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaCi3xCMqdz4v0Y4BVjAPCBY) |
+| Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2020 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBdXIvjSR4LwCHUe2LPzIov) |
+| Defcon - Blockchain Village  | One of the world's largest and most notable hacker conventions, held annually in Las Vegas, Nevada.    |   https://blockchainvillage.net   |2021 |[Videos](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDqrnDrbV-H9GBSBBtnflSw) |
+| Off The Chain Conference  | A CURIOUSLY STRONG BLOCKCHAIN AND CRYPTOCURRENCY SECURITY CONFERENCE
+| https://www.offthechaincon.com |2022 | [Videos](https://www.youtube.com/watch?v=RKNPyDGWIrM&ab_channel=OffTheChainConference)|
+| Unchained Blockchain Security Conference  |  A two days virtual conference featuring global Blockchain veterans presenting their novel ideas, stories, and experiences around creating a secured Web3.0 ecosystem.   |  https://razzorsec.ml/unchained.html    |2022 |[Videos](https://www.youtube.com/playlist?list=PLsTlBQwiFsTH_vumCsfx1kshgBuS4_Bfs) |
+| DeFi Security 101  | This is a one-day crash course on DeFi security at Stanford, just before DeFi Security Summit. The goals are to prepare students for the DSS event and attract them to perform research in this space.  The course is in-person only.    |  https://defisecuritysummit.org/defi-security-101/    | 2022| |
+| First Annual DeFi Security Summit  |  First Annual DeFi Security Summit -PAUL & MILDRED BERG HALL, STANFORD, AUGUST 27-28  | https://defisecuritysummit.org/     | 2022| |
+| The Science of Blockchain Conference 2022  |  The conference focuses on technical innovations in the blockchain ecosystem, and brings together researchers and practioners working in the space. We are interested in the application of cryptography, decentralized protocols, formal methods, and empirical analysis, to improving the security and scalability of blockchain deployments. We aim to foster collaboration among practitioners and researchers working on blockchain protocol development, cryptography, distributed systems, secure computing, crypto-economics, and economic risk analysis. | https://cbr.stanford.edu/sbc22  | 2022| |
+| ETHLatam  | AGOSTO 11-12-13 2022, Buenos Aires Argentina  |https://ethlatam.org/      | 2022| [Videos](https://www.youtube.com/channel/UCYZOSfxEQ4hmocHqjZAy_dw)|
+
 
 ## Newsletters about the Crypto World
 - [Rekt](https://rekt.news/)

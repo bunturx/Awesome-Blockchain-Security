@@ -131,6 +131,7 @@ Capture the Flag (CTF) is a special kind of information security competitions
 - [Honeypot Detector for BSC Network](https://honeypot.is/)
 - [Bad Bitcoin.org](https://badbitcoin.org/)
 - [CryptoStrapon Scam Detector](https://cryptostrapon.com/scam-detector): Free AI scam checker for messages, links and wallet addresses, with Ethereum and TRON on-chain checks. No sign-up
+- [Solana Rent & Rug Shield](https://rentandrugshield.com): Free 10-layer Solana SPL and Token-2022 token rug pull, honeypot, and transaction drainer scanner (mint/freeze authority, transfer-fee and permanent-delegate traps, LP lock/burn, holder concentration) plus read-only wallet rent checker, with an open-source [MCP server](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) and x402 API. No sign-up.
 
 ## Conferences
 

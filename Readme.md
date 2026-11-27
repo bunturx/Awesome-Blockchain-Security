@@ -113,6 +113,8 @@ Capture the Flag (CTF) is a special kind of information security competitions
 |Vertigo|[link](https://sfuzz.github.io/)| Mutation Testing for Ethereum Smart Contracts.|
 |Solidity Visual Developer|[link](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)|This extension contributes security centric syntax and semantic highlighting, a detailed class outline, specialized views, advanced Solidity code insights and augmentation to Visual Studio Code.|
 |tintinweb|[link](https://marketplace.visualstudio.com/publishers/tintinweb)|Visual Studio Code Extensions by tintinweb|
+|realism-gate|[link](https://github.com/KhomDev/realism-gate)|Static check of exploit PoC tests (Foundry, Solana, Move) for setups that make a passing PoC prove less than it claims, and of a report's claims against the PoC. Offline, MIT.|
+|priorart|[link](https://github.com/KhomDev/priorart)|Checks an audit or bug-bounty finding against a program's saved prior audits, known issues and scope; quotes the evidence, gives no verdict. Offline, MIT.|
 
 ## Online Tools
 - [Solidity Scan](https://solidityscan.com/): Smart-contract scanning tool built to discover vulnerabilities & mitigate risks in your code.
